@@ -1,0 +1,2 @@
+FROM ahmed/app
+ADD . /var/www/html
